@@ -1,3 +1,5 @@
 Esta es una prueba para ver si el nombre de las ramas fueron cambiadas exitosamente y no se rompió nada
 
-Esta prueba fue éxitosa. Cambio de nombre de ramas realizado sin inconvenientes.
+Esta prueba fue exitosa. Cambio de nombre de ramas realizado sin inconvenientes.
+
+Listo. Esta es una tercera prueba, donde verifico si la conexión se actualizó, porque al parecer estaba desactualizada.
