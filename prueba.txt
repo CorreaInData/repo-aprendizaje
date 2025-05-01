@@ -7,3 +7,6 @@ Listo. Esta es una tercera prueba, donde verifico si la conexión se actualizó,
 Perfecto. Conexión actualizada sin inconvenientes.
 
 Esta es una última prueba para ver la visualización en VSC
+
+Esta es una prueba para probar Git desde linux
+
