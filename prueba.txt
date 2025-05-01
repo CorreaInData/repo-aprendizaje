@@ -10,3 +10,4 @@ Esta es una última prueba para ver la visualización en VSC
 
 Esta es una prueba para probar Git desde linux
 
+Vamos a probar si no hay un error de compatibilidad en git desde windows y linux
